@@ -1,5 +1,6 @@
 require 'etc'
 require 'shellwords'
+require 'english'
 
 module Bluepill
   # This class represents the system that bluepill is running on.. It's mainly used to memoize
